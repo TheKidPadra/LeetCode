@@ -28,7 +28,7 @@ If you'd like to contribute or provide feedback, feel free to submit a pull requ
 Check the Table below to see the list of problems and their current status.
 ## Table
 |  ID  |      Title      |     Solution    |     Solution    |    Difficulty   | Tag  |        Discuss            |
-|-----|---------------- | --------------- | --------------- | --------------- | -----|-------------------------- |
+|------|---------------- | --------------- | --------------- | --------------- | -----|-------------------------- |
 |  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/Integer_Break.cpp) | [Python]() | $${\color{Darkorange}Medium}$$ | Math / Dynamic Programming | [discuss]() |
 
 ## 📝 License
