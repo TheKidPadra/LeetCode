@@ -34,10 +34,6 @@ Check the Table below to see the list of problems and their current status.
 ## 📝 License
 This project is licensed as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
 
-## Acknowledgments
-- [LeetCode](https://leetcode.com/) for providing a platform to sharpen coding skills.
-- [GitHub](https://github.com/) for hosting and version control.
 
-Happy coding! 🚀
 
 
