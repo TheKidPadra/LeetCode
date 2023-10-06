@@ -29,7 +29,7 @@ Check the Table below to see the list of problems and their current status.
 ## Table
 |  ID  |      Title      |     Solution    |     Solution    |    Difficulty   | Tag  |        Discuss            |
 |-----|---------------- | --------------- | --------------- | --------------- | -----|-------------------------- |
-|  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ | Math / Dynamic Programming | [discuss]() |
+|  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/Integer_Break.cpp) | [Python]() | $${\color{Darkorange}Medium}$$ | Math / Dynamic Programming | [discuss]() |
 
 ## 📝 License
 This project is licensed as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
