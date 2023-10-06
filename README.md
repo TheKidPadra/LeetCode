@@ -26,6 +26,10 @@ If you'd like to contribute or provide feedback, feel free to submit a pull requ
 
 # Progress
 Check the Table below to see the list of problems and their current status.
+## Table
+|  ID  |      Title      |     Solution    |     Solution    |    Difficulty   | Tag  |        Discuss            |
+|-----|---------------- | --------------- | --------------- | --------------- | -----|-------------------------- |
+|  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ | Math / Dynamic Programming | [discuss]() |
 
 ## 📝 License
 This project is licensed as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
@@ -36,8 +40,4 @@ This project is licensed as open source under the terms of the [MIT license](htt
 
 Happy coding! 🚀
 
-## Table
-|  ID  |      Title      |     Solution    |     Solution    |    Difficulty   | Tag  |        Discuss            |
-|-----|---------------- | --------------- | --------------- | --------------- | -----|-------------------------- |
-|  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ | Math / Dynamic Programming | [discuss]() |
 
