@@ -31,7 +31,7 @@ Check the Table below to see the list of problems and their current status.
 |------|---------------- | -----| --------------- | --------------- | --------------- |
 |  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | Math / Dynamic Programming | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/Integer_Break.cpp) | [Python](https://github.com/TheKidPadra/LeetCode/blob/main/python_solutions/Integer_Break.py) | $${\color{Darkorange}Medium}$$ |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum) | Array / Hash Table | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/TwoSum.cpp) | [Python](https://github.com/TheKidPadra/LeetCode/blob/main/python_solutions/TwoSum.py) | $${\color{Green}Easy}$$ |
-
+|  2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math / Recursion | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ |
 ## 📝 License
 This project is licensed as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
 
