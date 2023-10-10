@@ -31,7 +31,9 @@ Check the Table below to see the list of problems and their current status.
 |------|---------------- | -----| --------------- | --------------- | --------------- |
 |  343  | [Integer Break](https://leetcode.com/problems/integer-break/) | Math / Dynamic Programming | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/Integer_Break.cpp) | [Python](https://github.com/TheKidPadra/LeetCode/blob/main/python_solutions/Integer_Break.py) | $${\color{Darkorange}Medium}$$ |
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum) | Array / Hash Table | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/TwoSum.cpp) | [Python](https://github.com/TheKidPadra/LeetCode/blob/main/python_solutions/TwoSum.py) | $${\color{Green}Easy}$$ |
-
+|  2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math / Recursion | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ |
+|  3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table / String / Sliding Window | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ |
+|  4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Array / Binary Search / Divide and Conquer | [C++]() | [Python]() | $${\color{Red}Hard}$$ |
 
 ## 📝 License
 This project is licensed as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
