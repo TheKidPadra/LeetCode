@@ -34,6 +34,7 @@ Check the Table below to see the list of problems and their current status.
 |  2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Linked List / Math / Recursion | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/AddTwoNumbers.cpp) | [Python](https://github.com/TheKidPadra/LeetCode/blob/main/python_solutions/AddTwoNumbers.py) | $${\color{Darkorange}Medium}$$ |
 |  3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table / String / Sliding Window | [C++](https://github.com/TheKidPadra/LeetCode/blob/main/cpp_solutions/LongestSubstringWithoutRepeatingCharacters.cpp) | [Python]() | $${\color{Darkorange}Medium}$$ |
 |  4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Array / Binary Search / Divide and Conquer | [C++]() | [Python]() | $${\color{Red}Hard}$$ |
+|  5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | String / Dynamic Programming | [C++]() | [Python]() | $${\color{Darkorange}Medium}$$ |
 
 ## 📝 License
 This project is licensed as open source under the terms of the [MIT license](https://opensource.org/licenses/MIT).
